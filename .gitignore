@@ -1,4 +1,5 @@
 .env
-./mp3/*
-./src/*
-./txt/*
+./mp3
+./src
+./txt
+.python-version

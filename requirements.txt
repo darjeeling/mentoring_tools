@@ -1,0 +1,4 @@
+openai==1.23.2
+python-dotenv==1.0.1
+ruff==0.4.1
+uv==0.1.35
